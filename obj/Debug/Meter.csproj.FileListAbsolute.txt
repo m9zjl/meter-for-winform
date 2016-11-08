@@ -1,0 +1,17 @@
+E:\VS\Test\Meter\Meter\bin\Debug\Meter.dll
+E:\VS\Test\Meter\Meter\bin\Debug\Meter.pdb
+E:\VS\Test\Meter\Meter\obj\Debug\ResolveAssemblyReference.cache
+E:\VS\Test\Meter\Meter\obj\Debug\Chart.Meter.resources
+E:\VS\Test\Meter\Meter\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\VS\Test\Meter\Meter\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\VS\Test\Meter\Meter\obj\Debug\Meter.dll
+E:\VS\Test\Meter\Meter\obj\Debug\Meter.pdb
+D:\Desktop\Meter\Meter\bin\Debug\Meter.dll
+D:\Desktop\Meter\Meter\bin\Debug\Meter.pdb
+D:\Desktop\Meter\Meter\obj\Debug\Meter.csprojResolveAssemblyReference.cache
+D:\Desktop\Meter\Meter\obj\Debug\Chart.Meter.resources
+D:\Desktop\Meter\Meter\obj\Debug\Meter.csproj.GenerateResource.Cache
+D:\Desktop\Meter\Meter\obj\Debug\Meter.dll
+D:\Desktop\Meter\Meter\obj\Debug\Meter.pdb
+D:\Desktop\Meter\Meter\obj\Debug\Meter.Properties.Resources.resources
+D:\Desktop\Meter\Meter\obj\Debug\Meter.UserControl1.resources
